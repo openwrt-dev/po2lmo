@@ -1,8 +1,5 @@
-dist/
-/host
 *.o
-*.so
-*.swp
-*.po~
-/docs
-modules/luci-base/src/po2lmo
+src/plural_formula.h
+src/plural_formula.c
+src/contrib/lemon
+src/po2lmo
